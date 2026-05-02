@@ -1,0 +1,23 @@
+# Data (large simulation files)
+data/
+
+# Trained models
+models/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environment
+*.egg-info/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
