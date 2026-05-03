@@ -74,6 +74,10 @@ conda create -n shm python=3.11 -y
 conda activate shm
 pip install -r requirements.txt
 ```
+## References
+ 
+- Hesser, D.F., Altun, K., & Markert, B. (2022). Monitoring and tracking of a suspension railway based on inertial measurements and computational intelligence. *Mechanical Systems and Signal Processing*, 164, 108298.
+- Course: Computational Intelligence in Engineering, WS 2023-24, Institute of General Mechanics (IAM), RWTH Aachen University
 
 ## Technologies
  
