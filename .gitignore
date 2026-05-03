@@ -1,9 +1,6 @@
 # Data (large simulation files)
 data/
 
-# Trained models
-models/
-
 # Python
 __pycache__/
 *.pyc
@@ -21,3 +18,6 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Trained models
+models/
