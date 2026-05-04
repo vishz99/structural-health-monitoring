@@ -6,7 +6,7 @@ Detection and localisation of structural damage in the Hohenzollernbrucke (Colog
  
 The Hohenzollernbrucke is one of the busiest railway bridges in Europe, carrying over 1,200 trains per day across the Rhine. A simplified 3D finite element model of the bridge was created in ANSYS, and transient structural simulations were run under various loading conditions for both healthy and damaged configurations. Damage is introduced by removing structural truss members at five different locations.
 
-![Hohenzollernbrucke FE Model](docs/images/bridge_model.png)
+![Hohenzollernbrucke FE Model](docs/bridge_model.png)
  
 Given the simulation output (deformations and shear stresses at approximately 29,000 nodes over 11 time steps), the task is to:
 
